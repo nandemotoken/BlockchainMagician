@@ -11,5 +11,5 @@ image = "https://3.bp.blogspot.com/-9GGxkWC2bqM/UYns8kr1stI/AAAAAAAARbw/feLZrPmV
 
 
 //nft address
-magicaddress = "0x7378a1895d81c721581eebf57eaa51678a160304";
+magicaddress = "0xD3D4BdB4F53b66a087bD1a112e7E80A64b711406";
 
