@@ -1,6 +1,6 @@
 {
 "name":"Web3のウィキペディア",
-"description":"このNFTのメタデータはGitHubのサーバに置いてみました",
+"description":"このNFTのメタデータはWeb2のサーバにあります",
 "image":"https://ja.wikipedia.org/static/images/icons/wikipedia.png",
 "animation_url":"https://ja.wikipedia.org/wiki/Web3",
 "external_url":"https://ja.wikipedia.org/wiki/Web3"
