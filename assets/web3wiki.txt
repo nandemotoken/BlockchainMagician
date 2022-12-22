@@ -1,6 +1,6 @@
 {
 "name":"Web3のウィキペディア",
-"description":"このNFTのメタデータはWeb2のサーバにあります",
+"description":"このNFTのメタデータはWeb2のサーバにあります。  \nOpenSeaで見てね。https://opensea.io/ja/assets/matic/0xF1B1c699812f925e13982C986d54518Ddc17218C/1",
 "image":"https://ja.wikipedia.org/static/images/icons/wikipedia.png",
 "animation_url":"https://ja.wikipedia.org/wiki/Web3",
 "external_url":"https://ja.wikipedia.org/wiki/Web3"
